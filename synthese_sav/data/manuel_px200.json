@@ -1,0 +1,71 @@
+{
+  "produit": "PX-200",
+  "passages": [
+    {
+      "id": "p12-1",
+      "page": 12,
+      "section": "Voyants d'etat",
+      "texte": "Le voyant d'etat de la PX-200 indique l'etat de l'imprimante : vert fixe = prete ; orange clignotant = bourrage papier ; rouge fixe = cartouche vide ; bleu clignotant = connexion Wi-Fi en cours."
+    },
+    {
+      "id": "p12-2",
+      "page": 12,
+      "section": "Bourrage papier",
+      "texte": "Lorsque le voyant orange clignote et que le pictogramme de feuille froissee s'affiche, un bourrage papier est detecte. Eteignez l'imprimante, ouvrez le capot arriere, retirez delicatement la feuille coincee dans le sens de defilement, refermez le capot puis rallumez. Le voyant redevient vert."
+    },
+    {
+      "id": "p13-1",
+      "page": 13,
+      "section": "Cartouche d'encre",
+      "texte": "Un voyant rouge fixe avec le pictogramme de goutte signale que la cartouche d'encre est vide ou mal installee. Remplacez-la par une cartouche PX-INK-200 et verifiez qu'elle est bien enclenchee."
+    },
+    {
+      "id": "p14-1",
+      "page": 14,
+      "section": "Connexion sans fil",
+      "texte": "Un voyant bleu clignotant avec le pictogramme d'ondes indique que l'imprimante cherche le reseau Wi-Fi. Si le clignotement dure plus de deux minutes, redemarrez la box puis relancez l'appairage en maintenant le bouton Wi-Fi pendant 5 secondes."
+    },
+    {
+      "id": "p20-1",
+      "page": 20,
+      "section": "Entretien",
+      "texte": "Nettoyez les rouleaux d'entrainement tous les six mois avec un chiffon non pelucheux legerement humide."
+    },
+    {
+      "id": "p21-1",
+      "page": 21,
+      "section": "Garantie constructeur",
+      "texte": "La PX-200 est couverte par une garantie constructeur de 24 mois a compter de la date d'achat. Elle ne couvre pas les dommages lies a un usage non conforme."
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig_01",
+      "page": 12,
+      "fichier": "figures/fig_01.png",
+      "legende": "Figure 3.1 - Voyant orange clignotant et pictogramme de feuille froissee",
+      "description": "Le voyant d'etat orange clignote ; a cote s'affiche l'icone d'une feuille de papier froissee, signe d'un bourrage papier."
+    },
+    {
+      "id": "fig_02",
+      "page": 13,
+      "fichier": "figures/fig_02.png",
+      "legende": "Figure 3.2 - Voyant rouge fixe et pictogramme de goutte",
+      "description": "Le voyant rouge est allume en continu avec une icone de goutte d'encre : cartouche vide ou mal installee."
+    },
+    {
+      "id": "fig_03",
+      "page": 14,
+      "fichier": "figures/fig_03.png",
+      "legende": "Figure 3.3 - Voyant bleu clignotant et pictogramme d'ondes",
+      "description": "Le voyant bleu clignote avec une icone d'ondes radio : l'imprimante recherche le reseau Wi-Fi."
+    },
+    {
+      "id": "fig_04",
+      "page": 12,
+      "fichier": "figures/fig_04.png",
+      "legende": "Figure 3.4 - Voyant vert fixe",
+      "description": "Le voyant vert est allume en continu avec une coche : l'imprimante est prete a imprimer."
+    }
+  ]
+}
